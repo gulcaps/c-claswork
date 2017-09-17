@@ -1,0 +1,9 @@
+C:\Users\P501\Desktop\classwok\09.16.2017\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\P501\Desktop\classwok\09.16.2017\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\P501\Desktop\classwok\09.16.2017\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\P501\Desktop\classwok\09.16.2017\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojResolveAssemblyReference.cache
+C:\Users\P501\Desktop\classwok\09.16.2017\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\P501\Desktop\classwok\09.16.2017\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.Cache
+C:\Users\P501\Desktop\classwok\09.16.2017\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\P501\Desktop\classwok\09.16.2017\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\P501\Desktop\classwok\09.16.2017\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
