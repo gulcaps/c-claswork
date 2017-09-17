@@ -18,3 +18,4 @@ C:\Users\P501\Desktop\classwok\09.17.2017\WindowsFormsApp3\WindowsFormsApp1\obj\
 C:\Users\P501\Desktop\classwok\09.17.2017\WindowsFormsApp3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 C:\Users\P501\Desktop\classwok\09.17.2017\WindowsFormsApp3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\P501\Desktop\classwok\09.17.2017\WindowsFormsApp3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\P501\Desktop\classwok\09.17.2017\WindowsFormsApp3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources

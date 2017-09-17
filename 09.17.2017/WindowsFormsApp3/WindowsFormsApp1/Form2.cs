@@ -11,34 +11,28 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApp1
 {
-    public partial class Form1 : Form
+    public partial class Form2 : Form
     {
-        public Form1()
+        public static string selected;
+        public Form2()
         {
             InitializeComponent();
         }
 
-        public void Form1_Load(object sender, EventArgs e)
-        {
-            TextBox txt = new TextBox();
-          
-            txt.Name = "namie";
-            this.Controls.Add(txt);
-        }  
-
         private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+        private void Form2_Load(object sender, EventArgs e)
         {
             var connectionString = @"Data Source=CODE0;Initial Catalog=simple_sample;Integrated Security=True;Persist Security Info=False;Pooling=False;MultipleActiveResultSets=False;Encrypt=False;TrustServerCertificate=True";
             var connection = new SqlConnection(connectionString);
             connection.Open();
-            var surnameText = surname.Text;
-            var nameText =namie.Text;
-            var ageText = age.Text;
-
-            var sql = "insert into (name,surname,age) values (''"+surnameText+"','hello world'," + ageText + ")";
-            SqlCommand cmd = new SqlCommand(sql, connection);
-            cmd.ExecuteNonQuery();
-            
+            int selectedId = Convert.ToInt32(selected);
+            var sql = "select + from users where id =" + selected + "";
+            var adapter = new SqlDataAdapter(cmd);
+            var ds = new DataSet();
+            adapter.Fill(ds);
         }
     }
 }
