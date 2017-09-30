@@ -20,12 +20,12 @@ create same controller with name add assign 1 to 1
 htmlhelper class
 ????how to use raw html on form begin form????
 ???why c# doesnt check itself for validation even though data annotations???
-
+???ModelBinding???
 
 
 enable-migrations 
-add-migration
-
+add-migration ''
+ 
  
 
 
