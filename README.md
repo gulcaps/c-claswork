@@ -23,6 +23,8 @@ htmlhelper class
 
 
 
+enable-migrations 
+add-migration
 
  
 
